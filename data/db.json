@@ -1,0 +1,7 @@
+{
+    "jobs": [
+    { "title": "Graphic Designer", "id": 1, "details": "Joshua agba designer" },
+    { "title": "Web Developer", "id": 2, "details": "Stephen agba coder" },
+    { "title": "Footballer", "id": 3, "details": "Samuel agba coder" }
+  ]
+}
